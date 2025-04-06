@@ -27,7 +27,7 @@ async function pingCommand(sock, chatId) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterName: 'WASEEM UXUI',
                     serverMessageId: -1
                 }
             }
